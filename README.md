@@ -35,7 +35,7 @@ Before setting up the PDF Slack Bot, ensure the following:
 ### 1. Clone the Repository
 
 ```bash
-$ git clone https://github.com/MohammedFaizer/pdf_slack_bot.git
+$ git clone https://github.com/Cyces-Innovation-Labs/pdf-chat-slack-bot.git
 $ cd pdf_slack_bot
 ```
 
